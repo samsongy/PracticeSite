@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.introduction-container {
+    background-color: aquamarine;
+    width: 750px;
+    margin: auto;
+    position: relative;
+}
+
+.header {
+    background-color: #669999;
+    margin: 0;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.profile-pic{
+    margin: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.description {
+    margin: 0;
+    width: 300px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-bottom: 150px;
+    padding-right: 90px;
+}
