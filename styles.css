@@ -29,8 +29,24 @@ body {
     margin: 0;
     width: 300px;
     position: absolute;
-    bottom: 0;
-    right: 0;
-    padding-bottom: 150px;
-    padding-right: 90px;
+    bottom: 30%;
+    right: 12%;
+}
+
+.btn-container {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    margin-top: 2%;
+}
+
+.form-btn {
+    text-align: center;
+    padding: 10% 30%;
+    border: #669999;
+    background-color: aquamarine;
+}
+
+.form-btn:hover {
+    background-color: #669999; /* Green */
 }
